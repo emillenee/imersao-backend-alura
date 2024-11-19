@@ -1,0 +1,11 @@
+//Mudar o terminal para cmd
+
+//Iniciar o NPM
+npm init es6 -y
+
+//Instalar uma dependência
+npm install express
+
+//Subir o servidor
+//Watch para reiniciar o servidor automaticamente em caso de alterações
+node --watch server.js

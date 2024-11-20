@@ -9,3 +9,6 @@ npm install express
 //Subir o servidor
 //Watch para reiniciar o servidor automaticamente em caso de alterações
 node --watch server.js
+
+//
+npm install mongodb

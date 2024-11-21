@@ -10,5 +10,8 @@ npm install express
 //Watch para reiniciar o servidor automaticamente em caso de alterações
 node --watch server.js
 
-//
+//Banco de dados
 npm install mongodb
+
+//Gerenciador de pastas
+npm install multer

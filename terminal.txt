@@ -15,3 +15,9 @@ npm install mongodb
 
 //Gerenciador de pastas
 npm install multer
+
+//Instalar dependência do google
+npm i @google/generative-ai
+
+//Instalar os cors (Compartilhamento de origem cruzada)
+npm i cores

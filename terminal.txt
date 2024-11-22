@@ -21,3 +21,8 @@ npm i @google/generative-ai
 
 //Instalar os cors (Compartilhamento de origem cruzada)
 npm i cores
+
+//CLOUD
+
+//Instalar o modulo dotenv
+npm install dotenv
